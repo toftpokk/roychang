@@ -2,8 +2,6 @@
 	import type { PageData } from "./$types";
 
     export let data : PageData
-    let query = ""
-    $: query = data.query
 </script>
 <div class="my-4">
     <form action="/search">
@@ -14,13 +12,22 @@
                 </svg>
             </div>
             <div class="flex-grow">
-                <input class="w-full text-[16px] outline-none" name="q"/>
+                <input value={data.query} class="w-full text-[16px] outline-none" name="q"/>
             </div>
         </div>
     </form>
 </div>
 <!-- Results -->
 <div>
+    <div class="mx-10">
+        a
+    </div>
+    {#each data.results.menus as item}
+         <!-- content here -->
+        <p>{item}</p>
+    {:else}
+         <!-- empty list -->
+    {/each}
     <!-- Dishes named query-->
     <!-- Dishes with ingredient: query -->
     <!-- Other semantically similar dishes -->
