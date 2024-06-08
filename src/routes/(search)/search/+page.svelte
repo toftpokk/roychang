@@ -6,7 +6,7 @@
 <!-- Results -->
 <div>
     <div class="ml-[30px]">
-        <ol class="max-w-[672px]">
+        <ol class="max-w-[700px]">
             {#each data.results.menus as item}
                 <!-- content here -->
                 <li class="mb-2">
@@ -17,7 +17,6 @@
                                 <h3 class="text-xl font-sans hover:underline">{item.name}</h3>
                             </a>
                             <h3 class="text-lg font-sans">{item.translated_name}</h3>
-                            <p>{item.type}</p>
                         </div>
                     </div>
                 </li>
