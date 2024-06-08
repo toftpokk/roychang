@@ -10,8 +10,7 @@ type Recipe = {
     // TODO
 }
 
-export const load: PageLoad = async (b) => {
-    const query = b.url.searchParams.get("q") || ""
+export const load: PageLoad = async () => {
     // FIXME: Temporary
     const menus = data.menus.map(recipe=>({
         id: 1,
@@ -22,7 +21,6 @@ export const load: PageLoad = async (b) => {
     }))
     const results : {menus: Recipe[]} = { ...data, menus: menus}
     return {
-        query,
         results,
     }
 };
