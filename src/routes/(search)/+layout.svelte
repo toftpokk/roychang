@@ -1,7 +1,7 @@
 <script lang="ts">
     export let data
 </script>
-<div class="my-4">
+<div class="py-4">
     <form action="/search" class="flex">
         <div class="mx-3">
             <a href="/" class="select-none">
