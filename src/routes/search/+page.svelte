@@ -19,16 +19,29 @@
 </div>
 <!-- Results -->
 <div>
-    <div class="mx-10">
-        a
+    <div class="ml-[30px]">
+        <ol class="max-w-[672px]">
+            {#each data.results.menus as item}
+                <!-- content here -->
+                <li class="mb-2">
+                    <div class="flex">
+                        <a href={"/recipe/"+item.id}><img class="w-32" src="#" alt={item.name}/></a>
+                        <div class="py-3 px-2">
+                            <a href={"/recipe/"+item.id}>
+                                <h3 class="text-xl font-sans hover:underline">{item.name}</h3>
+                            </a>
+                            <h3 class="text-lg font-sans">{item.translated_name}</h3>
+                            <p>{item.type}</p>
+                        </div>
+                    </div>
+                </li>
+            {:else}
+                <!-- empty list -->
+                <p>Menu not found for your search terms</p>
+            {/each}
+            <!-- Dishes named query-->
+            <!-- Dishes with ingredient: query -->
+            <!-- Other semantically similar dishes -->
+        </ol>
     </div>
-    {#each data.results.menus as item}
-         <!-- content here -->
-        <p>{item}</p>
-    {:else}
-         <!-- empty list -->
-    {/each}
-    <!-- Dishes named query-->
-    <!-- Dishes with ingredient: query -->
-    <!-- Other semantically similar dishes -->
 </div>
