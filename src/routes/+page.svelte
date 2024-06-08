@@ -12,7 +12,7 @@
                     </svg>
                 </div>
                 <div class="flex-grow">
-                    <input class="w-full text-[16px] outline-none" name="q"/>
+                    <input type="search" class="w-full text-[16px] outline-none" name="q"/>
                 </div>
             </div>
             <p class="mx-auto text-center text-gray-600 leading-10">Search for ingredients, menus, styles</p>
