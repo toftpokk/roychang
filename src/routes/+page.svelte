@@ -16,6 +16,10 @@
                 </div>
             </div>
             <p class="mx-auto text-center text-gray-600 leading-10">Search for ingredients, menus, styles</p>
+            <div class="flex justify-center gap-2">
+                <button class="input px-4 py-2">Search</button>
+                <a href="/new-recipe" class="input px-4 py-2">New Recipe</a>
+            </div>
         </form>
     </div>
     <div class="grow"></div>
