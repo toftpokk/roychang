@@ -1,6 +1,6 @@
 <div class="flex flex-col h-full">
     <div class="min-h-[92px] max-h-[20em] flex flex-col h-full">
-        <h1 class="text-[4em] text-center mt-auto max-h-[92px] font-serif leading-[0.7em]">Roychang</h1>
+        <h1 class="text-[4em] text-center mt-auto max-h-[92px] font-serif leading-[1em]">Roychang</h1>
     </div>
     <p class="text-center text-xl text-gray-500">Thai Recipes, Simply</p>
     <div class="my-4">
