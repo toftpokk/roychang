@@ -6,7 +6,7 @@ type RecipeHeader = {
 
 type Recipe = {
     servings: number
-    cookingTimeMinutes: number
+    cooking_time_minutes: number
     // Note: ingredients do not have to be unique
     // E.g. multiple portions of rice for different purposes
     ingredients: {
