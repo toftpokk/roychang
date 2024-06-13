@@ -2,6 +2,8 @@
 
 Thai Recipes, Simply
 
+![Roychang Search](/static/assets/git/main.png)
+
 ## Goal
 
 This is not a recipe book, it is meant to be
@@ -17,6 +19,18 @@ For recipe books:
 - https://www.pholfoodmafia.com/
 - https://thaifoodmaster.com
 
+## Installation
+
+```sh
+npm install
+```
+
+## Developing
+
+```
+npm run dev
+```
+
 ## TODO
 
 - prawn or shrimp?
@@ -29,15 +43,3 @@ For recipe books:
 - ทอด = Deep-fried
 - นึ่ง = Steamed
 - อบ = ?
-
-## Installation
-
-```sh
-npm install
-```
-
-## Developing
-
-```
-npm run dev
-```
