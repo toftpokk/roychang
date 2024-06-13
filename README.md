@@ -2,7 +2,7 @@
 
 Thai Recipes, Simply
 
-![Roychang Search](/static/assets/git/main.png)
+![Roychang Search](/static/assets/git/search.png)
 
 ## Goal
 
