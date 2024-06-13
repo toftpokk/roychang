@@ -2,7 +2,7 @@
 
 Most of these are creative commons - share alike, non-commercial, attribute
 
-## Isriya Paireepairit
+## Isriya Paireepairit - CC BY-NC 2.0
 
 - beef_pepper.jpg https://www.flickr.com/photos/isriya/2327665922/in/album-72157594454010173/
 - mama_fried.jpg https://www.flickr.com/photos/isriya/418943187
@@ -26,7 +26,7 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - noodles_gravy.jpg https://www.flickr.com/photos/isriya/6336686785
 - sun-dried_jerkey.jpg https://www.flickr.com/photos/isriya/4278348973/in/photostream/
 
-## Jarawee S.
+## Jarawee S. - CC BY-NC 2.0
 
 - fish-maw.jpg https://www.flickr.com/photos/ja-ae/1463354557
 - prawn-tamarind.jpg https://www.flickr.com/photos/ja-ae/928469574/in/album-72157600976929505/
@@ -40,7 +40,7 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - crispy_tofu.jpg https://www.flickr.com/photos/ja-ae/1396277605/in/photostream/
 - goong_gra_buang.jpg https://www.flickr.com/photos/ja-ae/2536933420/in/album-72157600976929505/
 
-## Ron Dollete
+## Ron Dollete - CC BY-ND 2.0
 
 - pork_larb.jpg https://www.flickr.com/photos/saucesupreme/14917628356/
 - pork_omelette.jpg https://www.flickr.com/photos/saucesupreme/14718182687/in/photostream/
@@ -54,7 +54,7 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - crispy_egg_noodles.jpg https://www.flickr.com/photos/saucesupreme/5703687341/
 - isaan_sausage.jpg https://www.flickr.com/photos/saucesupreme/4737399037
 
-## Wikimedia
+## Wikimedia Authors - CC BY 2.0
 
 - pak_boong_fai_daeng.jpg https://upload.wikimedia.org/wikipedia/commons/1/19/Pak_boong_fai_daeng.jpg
 - fried*chicken.jpg https://commons.wikimedia.org/wiki/File:Hatyai-style-fried_chicken*%28%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%29\_%2848908712316%29.jpg
@@ -91,7 +91,7 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - moo_sarong.jpg https://commons.wikimedia.org/wiki/File:Moo_sarong.jpg
 - mu_kratha.jpg https://commons.wikimedia.org/wiki/File:Mu_kratha.jpg
 
-## Promote Restaurant
+## Promote Restaurant - CC BY-NC 2.0
 
 - tom_yum_kung.jpg https://www.flickr.com/photos/promoterest/33920070763
 - crab_fried_rice.jpg https://www.flickr.com/photos/promoterest/27165329535
@@ -103,16 +103,24 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - fried_shrimp_with_garlic.jpg https://www.flickr.com/photos/promoterest/33887182944/
 - shrimp_paste_mackerel.jpg https://www.flickr.com/photos/promoterest/14746340746/
 
-- fried_egg.jpg https://www.pickpik.com/fried-egg-yolk-protein-eat-food-delicious-75223
+## Pxhere Authors - CC0
+
 - kana_mookrob.jpg https://pxhere.com/th/photo/1442825
 - vegetables.jpg https://pxhere.com/th/photo/649221
-- pork_basil.jpg https://www.pexels.com/photo/stir-fried-thai-basil-with-minced-pork-and-rice-on-oval-ceramic-plate-12100417/
-- fried_oyster.jpg https://www.flickr.com/photos/beeyan/9614350/in/photostream/
 - blood_clam.jpg https://pxhere.com/en/photo/490759
 - shrimp_glass_noodles.jpg https://pxhere.com/en/photo/561606
 - crab_fried_garlic.jpg https://pxhere.com/en/photo/1041321
+
+## Pexels Authors - Pexels License: Modifiable, no attribution
+
+- pork_basil.jpg https://www.pexels.com/photo/stir-fried-thai-basil-with-minced-pork-and-rice-on-oval-ceramic-plate-12100417/
+- pad_thai.jpg https://www.pexels.com/photo/pad-thai-in-white-ceramic-plate-12481161/
+
+## Others - See Link
+
+- fried_egg.jpg https://www.pickpik.com/fried-egg-yolk-protein-eat-food-delicious-75223
+- fried_oyster.jpg https://www.flickr.com/photos/beeyan/9614350/in/photostream/
 - fried_mackerel.jpg https://www.flickr.com/photos/jamy1946/41973958595/
 - mango_sticky_rice.jpg https://www.flickr.com/photos/pruet/2334021580/
-- pad_thai.jpg https://www.pexels.com/photo/pad-thai-in-white-ceramic-plate-12481161/
 - bass_with_fish_sauce.jpg https://www.flickr.com/photos/newdavich/5470381969/
 - chicken_kao_soi.jpg https://www.angsarap.net/2015/07/07/chicken-khao-soi/
