@@ -24,6 +24,11 @@ For recipe books:
 - https://mysweetstationery.wordpress.com/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2
 - http://5501309com226suchawadee.blogspot.com/2014/02/9-9-4-2-2-7-2557.html
 
+## Licensing
+
+This project is licensed by the MIT License, but the images included are subject to their own licenses.
+Please read the [attribution](/ATTRIBUTION.md) file for more information.
+
 ## Installation
 
 ```sh
