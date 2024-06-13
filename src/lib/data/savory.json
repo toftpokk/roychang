@@ -21,9 +21,14 @@
             "image": "kana_mookrob.jpg"
         },
         {
-            "name": "กะเพราหมูสับ",
+            "name": "ข้าวกะเพราหมู",
             "translated_name": "Stir-fried Pork with Holy Basil",
             "image": "pork_basil.jpg"
+        },
+        {
+            "name": "ข้าวผัดกะเพราหมูสับ",
+            "translated_name": "Stir-fried Pork and Holy Basil with Fried Rice",
+            "image": "khao_phat_kraphao_mu.jpg"
         },
         {
             "name": "ต้มจืด",
@@ -87,8 +92,9 @@
             "image": "crab_fried_rice.jpg"
         },
         {
-            "name": "กุ้งทอดกระเทียม",
-            "image": "crab_fried_garlic.jpg"
+            "name": "ข้าวผัดหมู",
+            "translated_name": "Pork Fried Rice",
+            "image": "khao_phat_mu.jpg"
         },
         {
             "name": "เนื้อผัดพริกไทยดำ",
@@ -112,7 +118,7 @@
         },
         {
             "name": "ปลากระพงนึ่งมะนาว",
-            "translated_name": "Steamed Seabass with Lime and Chillies",
+            "translated_name": "Steamed Seabass with Lime and Chili",
             "image": "bass-lime.jpg"
         },
         {
@@ -157,7 +163,21 @@
             "translated_name": "Crispy-fried Fried Soft Shell Crab with Garlic",
             "image": "crispy_crab_garlic.jpg"
         },
-
+        {
+            "name": "ไส้อ่อนทอดกระเทียม",
+            "translated_name": "Fried Pork Intestines with Garlic",
+            "image": "fried_intestines.jpg"
+        },
+        {
+            "name": "กุ้งทอดกระเทียม",
+            "translated_name": "Fried Shrimp with Garlic",
+            "image": "shrimp_fried_garlic.jpg"
+        },
+        {
+            "name": "หมูทอดกระเทียม",
+            "translated_name": "Fried Pork with Garlic",
+            "image": "pork_fried_garlic.jpg"
+        },
         {
             "name": "ปลาเก๋าสามรส",
             "translated_name": "Deep-fried Grouper with Three-Flavoured Sauce",
@@ -225,9 +245,19 @@
             "image": "crispy_egg_noodles.jpg"
         },
         {
+            "name": "ราดหน้า",
+            "translated_name": "Noodles with Gravy Sauce",
+            "image": "noodles_with_gravy.jpg"
+        },
+        {
             "name": "ไก่ทอด",
             "translated_name": "Fried Chicken",
             "image": "fried_chicken.jpg"
+        },
+        {
+            "name": "ไก่ทอดตะไคร้",
+            "translated_name": "Fried Chicken with Lemon Grass",
+            "image": "kai_thot_takhrai.jpg"
         },
         {
             "name": "ปลาทูทอด",
@@ -235,34 +265,234 @@
             "image": "fried_mackerel.jpg"
         },
         {
-            "name": "",
-            "translated_name": "",
-            "image": ".jpg"
+            "name": "ไก่ผัดขิง",
+            "translated_name": "Stir-fried Chicken with Ginger",
+            "image": "chicken_ginger.jpg"
         },
-
         {
-            "name": "",
-            "translated_name": "",
-            "image": ".jpg"
+            "name": "ข้าวมันไก่",
+            "translated_name": "Chicken Rice",
+            "image": "chicken_rice.jpg"
         },
-        "ผัดพริกขิง",
-        "ไก่ผัดขิง",
-        "asparagus ผัด กุ้ง",
-        "หมูย่าง",
-        "หมูสะเต๊ะ",
+        {
+            "name": "ปลาทับทิมทอดสามรส",
+            "translated_name": "Deep-fried Tilapia with Three-Flavored Sauce",
+            "image": "pla_tub_tim_tod_samrod.jpg"
+        },
+        {
+            "name": "หมูน้ำตก",
+            "translated_name": "Mu nam tok",
+            "image": "moo_nam_tok.jpg"
+        },
+        {
+            "name": "แกงเผ็ดไก่แห้ง",
+            "translated_name": "Dry Chicken Curry",
+            "image": "dry_chicken_curry.jpg"
+        },
+        {
+            "name": "ยำปลาดุกฟู",
+            "translated_name": "Fluffy Catfish Salad",
+            "image": "yum_pladook_foo.jpg"
+        },
+        {
+            "name": "คะน้านำ้มันหอย",
+            "translated_name": "Chinese broccoli with oyster sauce",
+            "image": "kanaa_namman_hoi.jpg"
+        },
+        {
+            "name": "หน่อไม้ฝรั่งผัดกุ้ง",
+            "translated_name": "Stir-fried Prawns with Asparagus",
+            "image": "nor_mai_farang_phat_kung.jpg"
+        },
+        {
+            "name": "แกงอ่อมไก่",
+            "translated_name": "Kaeng Om Kai",
+            "image": "kaeng_om_kai.jpg"
+        },
+        {
+            "name": "นำ้พริกหนุ่ม",
+            "translated_name": "Nam Phrik Num",
+            "image": "nam_phrik_num.jpg"
+        },
+        {
+            "name": "ไส้กรอกอีสาน",
+            "translated_name": "Isaan Sausage",
+            "image": "isaan_sausage.jpg"
+        },
+        {
+            "name": "ข้าวเกรียบกุ้ง",
+            "translated_name": "Deep-fried Prawn Crackers",
+            "image": "deep-fried_prawn_crackers.jpg"
+        },
+        {
+            "name": "หมูปิ้ง",
+            "translated_name": "Grilled Pork",
+            "image": "mu_ping.jpg"
+        },
+        {
+            "name": "แหนมซี่โครงหมู",
+            "translated_name": "Fried Fermented Pork Ribs",
+            "image": "naem_ribs.jpg"
+        },
+        {
+            "name": "แกงส้มกุ้ง",
+            "translated_name": "Sour Curry with Prawn",
+            "image": "sour_curry.jpg"
+        },
+        {
+            "name": "หลนปู",
+            "translated_name": "Crab Lhon",
+            "image": "crab_lhon.jpg"
+        },
+        {
+            "name": "ผัดไทย",
+            "translated_name": "Pad thai",
+            "image": "pad_thai.jpg"
+        },
+        {
+            "name": "ห่อหมกทะเลมะพร้าวอ่อน",
+            "translated_name": "Steamed Seafood Curry with Coconut",
+            "image": "steamed_seafood_curry_coconut.jpg"
+        },
+        {
+            "name": "แกงเหลือง",
+            "translated_name": "Yellow Curry",
+            "image": "kaeng_lueang.jpg"
+        },
+        {
+            "name": "ต้มเลือดหมู",
+            "translated_name": "Blood Tofu Soup",
+            "image": "blood_tofu_soup.jpg"
+        },
+        {
+            "name": "หมูสะเต๊ะ",
+            "translated_name": "Pork Satay",
+            "image": "pork_satay.jpg"
+        },
+        {
+            "name": "แอ็บหมู",
+            "translated_name": "Aep mu",
+            "image": "aep_mu.jpg"
+        },
+        {
+            "name": "แอ็บอ่องออ",
+            "translated_name": "Aep Ong-o",
+            "image": "aep_ong-o.jpg"
+        },
+        {
+            "name": "บะหมี่หมูแดงเกี๊ยวกุ้ง",
+            "translated_name": "Noodles with BBQ Pork and Shrimp Dumplings",
+            "image": "bami_mu_daeng_kiao.jpg"
+        },
+        {
+            "name": "ดอกกุยช่ายผัดตับ",
+            "translated_name": "Stir-fried Onion Flowers with Liver",
+            "image": "dok_hom_phat_tap.jpg"
+        },
+        {
+            "name": "ข้าวผัดนำ้พริกกะปิ",
+            "translated_name": "Spicy Shrimp Paste Fried Rice",
+            "image": "shrimp_paste_fried_rice.jpg"
+        },
+        {
+            "name": "คอหมูย่าง",
+            "translated_name": "Grilled Pork Neck",
+            "image": "grilled_pork_neck.jpg"
+        },
+        {
+            "name": "ข้าวขาหมู",
+            "translated_name": "Pork Leg with Rice",
+            "image": "pork_leg_with_rice.jpg"
+        },
+        {
+            "name": "ทอดมันกุ้ง",
+            "translated_name": "Fried Prawn Cake",
+            "image": "prawn_cake.jpg"
+        },
+        {
+            "name": "แกงเขียวหวาน",
+            "translated_name": "Green curry",
+            "image": "green_curry.jpg"
+        },
+        {
+            "name": "ใบเหลียงผัดไข่",
+            "translated_name": "Stir-fried Malindjo Leaves with Egg",
+            "image": "malindjo_with_eggs.jpg"
+        },
+        {
+            "name": "ขนมจีนนำ้ยา",
+            "translated_name": "Rice Vermicelli with Curry",
+            "image": "vermicelli_with_curry.jpg"
+        },
+        {
+            "name": "หมึกนึ่งมะนาว",
+            "translated_name": "Steamed Squid with Lime and Chili",
+            "image": "squid_with_lime.jpg"
+        },
+        {
+            "name": "ปลากะพงทอดน้ำปลา",
+            "translated_name": "Deep-fried Sea Bass with Fish Sauce",
+            "image": "bass_with_fish_sauce.jpg"
+        },
+        {
+            "name": "กุ้งเผา",
+            "translated_name": "Grilled Shrimp",
+            "image": "grilled_shrimp.jpg"
+        },
+        {
+            "name": "ก๋วยจั๊บ",
+            "translated_name": "Kuay Jap",
+            "image": "guay_jub.jpg"
+        },
+        {
+            "name": "นำ้พริกกะปีปลาทูทอด",
+            "translated_name": "Spicy Shrimp Paste with Fried Mackerel",
+            "image": "shrimp_paste_mackerel.jpg"
+        },
+        {
+            "name": "ข้าวซอยไก่",
+            "translated_name": "Chicken Khao Soi",
+            "image": "chicken_kao_soi.jpg"
+        },
+        {
+            "name": "คั่วหน่อไม้",
+            "translated_name": "Stir-fried Bamboo Shoots",
+            "image": "khua_no_mai_sai_mu.jpg"
+        },
+        {
+            "name": "หมูสะดุ้ง",
+            "translated_name": "Boiled Pork with Lime and Chili",
+            "image": "moo_sadoong.jpg"
+        },
+        {
+            "name": "หมูโสร่ง",
+            "translated_name": "Deep-fried Noodle-wrapped Pork",
+            "image": "moo_sarong.jpg"
+        },
+        {
+            "name": "เนื้อแดดเดียว",
+            "translated_name": "Beef Jerkey",
+            "image": "sun-dried_jerkey.jpg"
+        },
+        {
+            "name": "หมูกระทะ",
+            "translated_name": "Mu kratha",
+            "image": "mu_kratha.jpg"
+        },
+        "กะหลำ่ปลีนำ้ปลา",
+        "หมูหวาน",
+        "ผัดเผ็ด",
+        "กุ้งผัดหน่อไม้ฝรั่ง",
         "ฟักทองผัดไข่",
-        "green ",
         "พะโล้",
         "ปูผัดผงกะหรี่",
         "มัสมั่น",
-        "แกงเขียวหวาน",
         "บวบผัดไข่",
         "หมึกผัดนำ้พริกเผา",
         "มะระผัดไข่",
         "นำ้พริกปลาทู",
         "เปาะเปี๊ยะสด",
         "ต้มข่าไก่",
-        "กุ้งผัดหน่อไม้ฝรั่ง",
         "ของทอด",
         "หอยลายผัดพริกเผา",
         "ทอดกระเทียม",
@@ -276,7 +506,12 @@
         "นึ่ง",
         "ไข่กระทะ",
         "ข้วต้ม",
-        "กุยช่ายผัดตับ",
-        "ต้มเลือดหมู"
+        "ต้มเลือดหมู",
+        "",
+        "ข้าวยําปักษ์ใต้",
+        "ข้าวตังหมูหยอง",
+        "หมูผัดพริกขิง",
+        "กุ้งแพ",
+        "ข้าวไข่เจียวทรงเครื่อง"
     ]
 }
