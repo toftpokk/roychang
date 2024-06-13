@@ -9,10 +9,11 @@
 	<div class="ml-[30px]">
 		<ol class="max-w-[700px]">
 			{#each data.results.menus as item}
-				<!-- content here -->
 				<li class="mb-2">
 					<div class="flex">
-						<a href={'/recipe/' + item.id}><img class="w-32" src="#" alt={item.name} /></a>
+						<a href={'/recipe/' + item.id}
+							><img class="w-32 h-32 object-cover" src={item.image} alt={item.name} /></a
+						>
 						<div class="py-3 px-2">
 							<a href={'/recipe/' + item.id}>
 								<h3 class="text-xl font-sans hover:underline">{item.name}</h3>
