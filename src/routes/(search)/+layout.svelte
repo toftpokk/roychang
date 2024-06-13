@@ -15,7 +15,7 @@
                 </svg>
             </div>
             <div class="flex-grow">
-                <input type="search" value={data.query} class="w-full text-[16px] outline-none" name="q"/>
+                <input type="search" value={data.query} class="w-full text-[16px] outline-none bg-white" name="q"/>
             </div>
         </div>
     </form>

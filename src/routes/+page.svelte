@@ -3,7 +3,7 @@
         <h1 class="text-[4em] text-center mt-auto max-h-[92px] font-serif leading-[1em]">Roychang</h1>
     </div>
     <p class="text-center text-xl text-gray-500">Thai Recipes, Simply</p>
-    <div class="my-4">
+    <div class="my-4 px-2">
         <form action="/search">
             <div class="flex max-w-[584px] border border-black px-2 py-1.5 rounded-lg mx-auto">
                 <div class="me-2">
@@ -12,7 +12,7 @@
                     </svg>
                 </div>
                 <div class="flex-grow">
-                    <input type="search" class="w-full text-[16px] outline-none" name="q"/>
+                    <input type="search" class="w-full text-[16px] outline-none bg-white" name="q"/>
                 </div>
             </div>
             <p class="mx-auto text-center text-gray-600 leading-10">Search for ingredients, menus, styles</p>
