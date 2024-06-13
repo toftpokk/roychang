@@ -280,6 +280,11 @@
             "image": "pla_tub_tim_tod_samrod.jpg"
         },
         {
+            "name": "ปลาทับทิมทอดนำ้ปลา",
+            "translated_name": "Deep-fried Tilapia with Fish Sauce",
+            "image": "tilapa_fish_sauce.jpg"
+        },
+        {
             "name": "หมูน้ำตก",
             "translated_name": "Mu nam tok",
             "image": "moo_nam_tok.jpg"
@@ -479,7 +484,31 @@
             "translated_name": "Mu kratha",
             "image": "mu_kratha.jpg"
         },
-        "กะหลำ่ปลีนำ้ปลา",
+        {
+            "name": "กะหลำ่ปลีนำ้ปลา",
+            "translated_name": "Mu kratha",
+            "image": "cabbage_fish_sauce.jpg"
+        },
+        {
+            "name": "ทะเลกระทะร้อน",
+            "translated_name": "Stir-fried Mixed Seafood",
+            "image": "fried_seafood.jpg"
+        },
+        {
+            "name": "หอยเชลล์อบเนย",
+            "translated_name": "Baked Scallops with Butter",
+            "image": "butter_shell.jpg"
+        },
+        {
+            "name": "ไข่ลูกเขย",
+            "translated_name": "Fried Boiled Egg with Tamarind Sauce",
+            "image": "fried_egg_tamarind.jpg"
+        },
+        {
+            "name": "",
+            "translated_name": "",
+            "image": ""
+        },
         "หมูหวาน",
         "ผัดเผ็ด",
         "กุ้งผัดหน่อไม้ฝรั่ง",
