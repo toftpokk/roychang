@@ -25,6 +25,8 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - guay_jub.jpg https://www.flickr.com/photos/isriya/3337016611
 - noodles_gravy.jpg https://www.flickr.com/photos/isriya/6336686785
 - sun-dried_jerkey.jpg https://www.flickr.com/photos/isriya/4278348973/in/photostream/
+- cabbage_fish_sauce.jpg https://www.flickr.com/photos/isriya/5379841527/in/photostream/
+- butter_shell.jpg https://www.flickr.com/photos/isriya/736037664
 
 ## Jarawee S. - CC BY-NC 2.0
 
@@ -124,3 +126,5 @@ Most of these are creative commons - share alike, non-commercial, attribute
 - mango_sticky_rice.jpg https://www.flickr.com/photos/pruet/2334021580/
 - bass_with_fish_sauce.jpg https://www.flickr.com/photos/newdavich/5470381969/
 - chicken_kao_soi.jpg https://www.angsarap.net/2015/07/07/chicken-khao-soi/
+- tilapa_fish_sauce.jpg https://www.bloggang.com/mainblog.php?id=toeysk&month=04-05-2010&group=6&gblog=32
+- fried_seafood.jpg https://www.muangthai360.com/travel-show-1027.htm
