@@ -1,5 +1,5 @@
 import type { PageLoad } from "./$types";
-import data from "$lib/data/food.json"
+import data from "$lib/data/savory.json"
 
 export const load: PageLoad = async () => {
     // FIXME: Temporary
